@@ -83,9 +83,8 @@ Features:
 🏅 **CMR HackFest 3.0 – National Level Hackathon**  
 Project: Real-Time Intelligent Healthcare Monitoring System
 
-🏅 **Prarambha 1.0 – Institute Level Hackathon**
+🏅 **Prarambha 1.0 – Institute Level Hackathon, Nagpur**
 
-🥇 **Winner – Ignite Case Competition (E-Cell GCOEA)**
 
 ---
 
