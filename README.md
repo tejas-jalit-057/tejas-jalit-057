@@ -16,8 +16,6 @@ Building scalable web applications and solving real-world problems through techn
 
 🚀 Interested in building **scalable, user-centric web applications**
 
-🏆 Winner of **Ignite Case Competition – E-Cell GCOEA**
-
 🌱 Currently learning and improving my skills in **Full Stack Development**
 
 📫 Reach me at: **tejasjalit@gmail.com**
