@@ -12,7 +12,7 @@ Building scalable web applications and solving real-world problems through techn
 🎓 B.Tech Information Technology Student  
 🏫 Government College of Engineering, Amravati  
 
-💻 I work with modern web technologies like **React.js, Node.js, and PostgreSQL**  
+💻 I work with modern web technologies like **React.js, Node.js, and PostgreSQL, Next.js, React Native**  
 
 🚀 Interested in building **scalable, user-centric web applications**
 
